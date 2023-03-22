@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41451568133",
+    "project_id": "clone-4adf7",
+    "storage_bucket": "clone-4adf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41451568133:android:b7fb9e0110d4c2cfa6706c",
+        "android_client_info": {
+          "package_name": "com.kyawthu.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41451568133-fqkbkh1t0dbjlaellngq6s8no3i9vfib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPojek3EkzWcFl_9E-i1IC2zZy0pc59Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41451568133-fqkbkh1t0dbjlaellngq6s8no3i9vfib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
